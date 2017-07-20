@@ -1,0 +1,11 @@
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\obj\Debug\APS_DiscProcessor_Build_2.Main_Form.resources
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\obj\Debug\APS_DiscProcessor_Build_2.Properties.Resources.resources
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\obj\Debug\APS DiscProcessor Build 2.csproj.GenerateResource.Cache
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\obj\Debug\APS_DiscProcessor_Build_2.ProcessOrder.resources
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\obj\Debug\APS_DiscProcessor_Build_2.PushOrder.resources
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\obj\Debug\APS_DiscProcessor_Build_2.About.resources
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\bin\Debug\APS DiscProcessor.exe.config
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\bin\Debug\APS DiscProcessor.exe
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\bin\Debug\APS DiscProcessor.pdb
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\obj\Debug\APS DiscProcessor.exe
+R:\jl projects\APS DiscProcessor Build 2\APS DiscProcessor Build 2\obj\Debug\APS DiscProcessor.pdb
